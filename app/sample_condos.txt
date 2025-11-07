@@ -1,0 +1,5 @@
+SAMPLE_TXT = """# nome;tipo;qtde_carregadores;estado;preco_kwh;qtde_apartamentos
+Condominio Solar;Lento;4;SP;0.92;120
+Parque das Árvores;Rápido;2;RJ;1.12;80
+Residencial Horizonte;Lento;6;MG;0.87;200
+"""

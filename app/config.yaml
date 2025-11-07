@@ -1,0 +1,7 @@
+database:
+  path: evcharge.db
+logging:
+  level: INFO
+  file: evcharge.log
+cli:
+  export_path: exports
