@@ -18,9 +18,6 @@ Com ele você cadastra condomínios e usuários (com **RFID**), registra/consult
 - [Testes automatizados](#testes-automatizados)
 - [Estrutura de pastas](#estrutura-de-pastas)
 - [Comandos rápidos](#comandos-rápidos)
-- [Dúvidas comuns (FAQ)](#dúvidas-comuns-faq)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ---
 
@@ -251,10 +248,5 @@ pytest -q tests/unit
 ```
 
 ---
-
-## Contribuindo
-- Issues e PRs são bem-vindos.  
-- Sugestão: mantenha a cobertura **≥ 80%** e siga a organização de pastas e padrões existentes.
-- Inclua testes (unitários/integração/funcionais/estruturais) quando alterar regras de negócio.
 
 
